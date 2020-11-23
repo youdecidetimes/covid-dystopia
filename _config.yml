@@ -28,6 +28,7 @@ baseurl: "/covid-dystopia" # the subpath of your site, e.g. /blog
 url: "https://youdecidetimes.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: youdecidetimes
 github_username: youdecidetimes
+color_scheme: dark
 
 # Build settings
 theme: just-the-docs
