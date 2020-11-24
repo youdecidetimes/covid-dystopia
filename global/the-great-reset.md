@@ -10,11 +10,11 @@ nav_order: 2
 
 
 ## Background 
-https://en.wikipedia.org/wiki/The_Great_Reset
+[The Great Reset - Wikipedia](https://en.wikipedia.org/wiki/The_Great_Reset)
 
-https://thehill.com/opinion/energy-environment/504499-introducing-the-great-reset-world-leaders-radical-plan-to
+[Introducing the 'Great Reset,' world leaders' radical plan to transform the economy | TheHill](https://thehill.com/opinion/energy-environment/504499-introducing-the-great-reset-world-leaders-radical-plan-to)
 
-https://www.weforum.org/great-reset
+[The Great Reset | World Economic Forum](https://www.weforum.org/great-reset)
 
 
 ## Social Media Bots
