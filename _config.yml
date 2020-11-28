@@ -23,7 +23,7 @@ email: youdecidetimes@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  Tracking government overreach and lose of freedom due to COVID-19
 baseurl: "/covid-dystopia" # the subpath of your site, e.g. /blog
-url: "https://youdecidetimes.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://youdecidetimes.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: youdecidetimes
 github_username: youdecidetimes
 color_scheme: dark
