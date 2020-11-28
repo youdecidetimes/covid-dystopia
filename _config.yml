@@ -30,6 +30,8 @@ twitter_username: youdecidetimes
 github_username: youdecidetimes
 color_scheme: dark
 
+logo: "/assets/images/logo.png"
+
 # Build settings
 theme: just-the-docs
 plugins:
